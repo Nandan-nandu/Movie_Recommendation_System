@@ -4,3 +4,4 @@ The primary goal of movie recommendation systems is to filter and predict only t
 ![Screenshot (361)](https://github.com/Nandan-nandu/Movie_Recommendation_System/assets/88129970/70283428-dc08-47f4-8dc2-89beaf1b1132)
 
 Here it shows the recommended movies..
+![Screenshot (362)](https://github.com/Nandan-nandu/Movie_Recommendation_System/assets/88129970/51469544-2c87-4a65-9faa-251a5166b227)
